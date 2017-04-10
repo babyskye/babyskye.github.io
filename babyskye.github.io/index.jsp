@@ -1,0 +1,79 @@
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<html>
+   <html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>晶光闪烁</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+  </head>
+    <body style="background: url(img/bg.jpg)">
+        
+       <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand"><span style="color:#f39c12"><span style="font-size:26px"><span style="font-family:Comic Sans MS,cursive">Skye</span></span></span></h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="#">首页</a></li>
+                  <li><a href="collage.html">我的大学</a></li>
+                  <li><a href="work.html">我的兴趣</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 style="text-align:center"><span style="color:#ffff00"><span style="font-size:48px">欢迎来到Skye的空间</span></span></span></h1>
+            <p class="lead"><p><span style="color:#ffffff"><span style="font-size:24px">我叫Skye,目前就读于上海对外经贸大学。爱玩，爱拍照，爱追美剧，爱看书，不爱言情，不爱小鲜肉。我就是我，颜色不一样的烟火</span></span></span></p>
+            <p class="lead">
+              <a href="http//www.suibe.edu.cn" class="btn btn-lg btn-default">访问我的大学</a>
+            </p>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p></p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    </body>
+</html>
